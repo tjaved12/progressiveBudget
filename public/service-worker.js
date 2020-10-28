@@ -15,6 +15,7 @@ const staticFilesToPreCache = [
   "/favicon.ico",
   "/manifest.webmanifest",
   "/styles.css",
+  
 
 ].concat(iconFiles);
 
