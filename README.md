@@ -29,4 +29,4 @@ WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
 - - -
-
+![image](https://user-images.githubusercontent.com/66760710/97768899-e3270c80-1afc-11eb-88ee-90645b7ee410.png)
